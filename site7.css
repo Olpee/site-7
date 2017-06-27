@@ -1,0 +1,26 @@
+ul{
+	background-color: #b5ce00;
+	list-style-type: none;
+	padding: 14px 16px;
+	margin: 30px;
+	overflow: hidden;
+
+}
+li{
+	display: inline;
+
+}
+li a {
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	text-align: center;
+
+}
+header {
+	background-color: #6e6f77;
+}
+img {
+	margin: 25px;
+	background-position: center;
+	   }
